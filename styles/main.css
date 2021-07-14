@@ -291,11 +291,19 @@ button.hero-2:hover {
 }
 
 .card .card-icon {
-  font-size: 48px;
+  font-size: 32px;
 }
 
-.card .card-header {
-  flex-grow: 1;
+@media screen and (min-width: 568px) {
+  .card .card-icon {
+    font-size: 48px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .card .card-header {
+    min-height: 140px;
+  }
 }
 
 /* Footer */
