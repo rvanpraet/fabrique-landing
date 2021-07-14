@@ -32,7 +32,7 @@ Voordat ik aan de opdracht begon, heb ik een eerste indruk even laten inzinken. 
 
 ## Waar ligt de uitdaging
 
-Omdat ik nog niet eerder een website hebt gemaakt waar alle content over de afbeelding heen scrollt, leek dit me de grootste uitdaging. Hier ben ik dan ook wat over de 'tijdslimiet' voor moeten gaan.
+Omdat ik nog niet eerder een website hebt gemaakt waar alle content over de afbeelding heen scrollt, leek dit me de grootste uitdaging.
 
 ## Wat heb ik nodig
 
