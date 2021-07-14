@@ -56,6 +56,7 @@ html body {
 .header-printed {
   font-family: "Amatic SC", sans-serif;
   font-weight: bold;
+  margin-top: 0;
 }
 
 h1 {
@@ -194,9 +195,9 @@ button.hero-2:hover {
     height: 125%;
   }
 
-  .hero-background.section-cards {
+  /* .hero-background.section-cards {
     height: 125%;
-  }
+  } */
 }
 
 @media screen and (min-width: 1024px) {
