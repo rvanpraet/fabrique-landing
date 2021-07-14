@@ -194,10 +194,6 @@ button.hero-2:hover {
   .hero-background.section-proposition {
     height: 125%;
   }
-
-  /* .hero-background.section-cards {
-    height: 125%;
-  } */
 }
 
 @media screen and (min-width: 1024px) {
@@ -292,6 +288,7 @@ button.hero-2:hover {
 }
 
 .card .card-icon {
+  margin-bottom: 16px;
   font-size: 32px;
 }
 
@@ -303,6 +300,7 @@ button.hero-2:hover {
 
 @media screen and (min-width: 1024px) {
   .card .card-header {
+    margin-bottom: 32px;
     min-height: 140px;
   }
 }
