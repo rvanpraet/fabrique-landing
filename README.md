@@ -32,7 +32,7 @@ Voordat ik aan de opdracht begon, heb ik een eerste indruk even laten inzinken. 
 
 ## Waar ligt de uitdaging
 
-Omdat ik nog niet eerder een website hebt gemaakt waar alle content over de afbeelding heen scrollt, leek dit me de grootste uitdaging.
+Omdat ik nog niet eerder een website heb gemaakt waar alle content over de afbeelding heen scrollt, leek dit me de grootste uitdaging.
 
 ## Wat heb ik nodig
 
@@ -48,9 +48,9 @@ Ik heb voor mezelf een korte lijst gemaakt met resources die ik nodig heb, welke
 
 ## Uitvoering
 
-Ik ben begonnen met uitzoeken hoe het Parallax Scrolling effect precies werkt en ben daarna begonnen met globale styling op te zetten:
+Ik ben begonnen met uitzoeken hoe het Parallax Scrolling effect precies werkt en heb de globale styling op te zetten:
 
-- Header en content fonts implementeren en schaalbaar maken voor mobiel
+- Header en content fonts implementeren en responsive maken
 
 Vervolgens heb ik de eerste sectie gemaakt en de button styling. Eens ik deze op de goede plek stond, ging het maken van de andere secties redelijk vlot.
 
